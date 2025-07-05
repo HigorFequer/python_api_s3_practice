@@ -39,7 +39,5 @@ Este projeto é uma aplicação simples em Python desenvolvida como atividade pr
 
 ```bash
 📦 potterdb-api-to-s3
-├── main.py
-├── potterdb.json
-├── requirements.txt
+├── index.py
 └── README.md
