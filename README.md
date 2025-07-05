@@ -38,6 +38,6 @@ Este projeto é uma aplicação simples em Python desenvolvida como atividade pr
 ## 📁 Estrutura do projeto
 
 ```bash
-📦 potterdb-api-to-s3
+📦 python_api_s3_practice
 ├── index.py
 └── README.md
