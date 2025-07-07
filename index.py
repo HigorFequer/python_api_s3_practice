@@ -7,8 +7,6 @@ from botocore.exceptions import NoCredentialsError
 # Configurações do AWS S3
 AWS_ACCESS_KEY = os.getenv('AWS_ACCESS_KEY')
 AWS_SECRET_KEY = os.getenv('AWS_SECRET_KEY')
-print(f'AWS_ACCESS_KEY: {AWS_ACCESS_KEY}')  # Debugging line to check if the key is loaded
-print(f'AWS_SECRET_KEY: {AWS_SECRET_KEY}')  # Debugging line to check
 BUCKET_NAME = 'potter-db'
 S3_FILE_NAME = 'potterdb_characters.json'
 LOCAL_FILE = 'potterdb_characters.json'
